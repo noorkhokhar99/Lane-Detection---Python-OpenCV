@@ -4,5 +4,5 @@ Lane Detection - Python OpenCV
 
 # Watch the video
 
-[![Watch the video](https://github.com/noorkhokhar99/Object-Tracking-and-speed-detection-using-OpenCV-python/blob/main/Object%20Tracking%20and%20speed%20detection%20using%20OpenCV%20python.png)]([https://youtu.be/GEdO68H46GA)
+[![Watch the video](https://github.com/noorkhokhar99/Lane-Detection---Python-OpenCV/blob/main/Lane%20Detection%20-%20Python%20OpenCV%20this%20name%20is%20ok%20for%20video.png)]([https://youtu.be/-FI9zezVixo)
 
